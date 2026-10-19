@@ -29,7 +29,6 @@ An interactive Power BI dashboard analyzing 2023 retail sales. It covers monthly
 
 - Category, Gender, and Age group slicers, synced across all pages, with a Reset filters button
 - Peak and least month markers on the monthly sales chart that follow the selected filters
-- KPI cards with a 30-day trend arrow (green up, red down)
 - Subtitle text that rewrites itself based on the current selection
 - Page navigator with consistent layout across pages
 
