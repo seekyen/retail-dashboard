@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing 2023 retail sales. It covers monthly
 
 ![Overview](images/overview.png)
 ![Customer](images/customer.png)
-![Product and Pricing](product-n-pricing.png)
+![Product and Pricing](images/product-n-pricing.png)
 
 ## Key findings
 
