@@ -34,8 +34,8 @@ An interactive Power BI dashboard analyzing 2023 retail sales. It covers monthly
 
 ## Data
 
-Data Web Source : `https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?resource=download`
-Source file: `data/retail_sales_dataset.csv`
+- Data Web Source : `https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?resource=download`
+- Source file: `data/retail_sales_dataset.csv`
 
 | Column | Description |
 |---|---|
